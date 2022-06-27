@@ -1,0 +1,15 @@
+Warning[205] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\CERRADURA_2.ASM 23 : Found directive in column 1. (DE)
+Message[305] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\CERRADURA_2.ASM 71 : Using default destination of 1 (file).
+Message[305] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\CERRADURA_2.ASM 74 : Using default destination of 1 (file).
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\TECLADO.INC 116 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\LCD_4BIT.INC 87 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\LCD_4BIT.INC 99 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 24 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 54 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 66 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ASUS\DOCUMENTS\DIGITALES II\TECLADO_09\EEPROM.INC 67 : Register in operand not in bank 0.  Ensure that bank bits are correct.
